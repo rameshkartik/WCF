@@ -1,0 +1,8 @@
+http://wcftutorial.net/WCF-WAS-Hosting.aspx
+
+https://msdn.microsoft.com/en-us/library/ms733109(v=vs.110).aspx
+
+
+http://galratner.com/blogs/net/archive/2010/10/08/setting-up-a-nettcpbinding-enabled-wcf-service-in-iis-7.aspx
+
+http://blogs.msdn.com/b/santhoshonline/archive/2010/07/01/howto-nettcpbinding-on-iis-and-things-to-remember.aspx

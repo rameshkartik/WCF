@@ -1,0 +1,10 @@
+D:\Projects\Project Stage\Accelerate\DashboardService\DashboardServiceLibrary\DashboardServiceLibrary\bin\Debug\DashboardServiceLibrary.dll.config
+D:\Projects\Project Stage\Accelerate\DashboardService\DashboardServiceLibrary\DashboardServiceLibrary\bin\Debug\DashboardServiceLibrary.dll
+D:\Projects\Project Stage\Accelerate\DashboardService\DashboardServiceLibrary\DashboardServiceLibrary\bin\Debug\DashboardServiceLibrary.pdb
+D:\Projects\Project Stage\Accelerate\DashboardService\DashboardServiceLibrary\DashboardServiceLibrary\obj\Debug\DashboardServiceLibrary.dll
+D:\Projects\Project Stage\Accelerate\DashboardService\DashboardServiceLibrary\DashboardServiceLibrary\obj\Debug\DashboardServiceLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Infy\DashboardServiceLibrary\DashboardServiceLibrary\DashboardServiceLibrary\bin\Debug\DashboardServiceLibrary.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Infy\DashboardServiceLibrary\DashboardServiceLibrary\DashboardServiceLibrary\bin\Debug\DashboardServiceLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Infy\DashboardServiceLibrary\DashboardServiceLibrary\DashboardServiceLibrary\bin\Debug\DashboardServiceLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Infy\DashboardServiceLibrary\DashboardServiceLibrary\DashboardServiceLibrary\obj\Debug\DashboardServiceLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Infy\DashboardServiceLibrary\DashboardServiceLibrary\DashboardServiceLibrary\obj\Debug\DashboardServiceLibrary.pdb

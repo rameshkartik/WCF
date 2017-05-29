@@ -1,0 +1,14 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventory\FoodInventoryService_IIS\bin\FoodInventoryService_IIS.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventory\FoodInventoryService_IIS\bin\FoodInventoryService_IIS.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventory\FoodInventoryService_IIS\bin\FoodInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventory\FoodInventoryService_IIS\bin\FoodInventoryService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventory\FoodInventoryService_IIS\obj\Debug\FoodInventoryService_IIS.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventory\FoodInventoryService_IIS\obj\Debug\FoodInventoryService_IIS.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryService_IIS\bin\FoodInventoryService_IIS.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryService_IIS\bin\FoodInventoryService_IIS.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryService_IIS\bin\FoodInventoryService_IIS.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryService_IIS\bin\FoodInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryService_IIS\bin\FoodInventoryService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryService_IIS\obj\Debug\FoodInventoryService_IIS.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryService_IIS\obj\Debug\FoodInventoryService_IIS.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryService_IIS\obj\Debug\FoodInventoryService_IIS.pdb

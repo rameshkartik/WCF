@@ -1,0 +1,5 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\TransactionService\TransactionService\bin\Debug\TransactionService.dll.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\TransactionService\TransactionService\bin\Debug\TransactionService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\TransactionService\TransactionService\bin\Debug\TransactionService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\TransactionService\TransactionService\obj\Debug\TransactionService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\TransactionService\TransactionService\obj\Debug\TransactionService.pdb

@@ -1,0 +1,10 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\ClientApp\ClientApp\bin\Debug\ClientApp.pdb

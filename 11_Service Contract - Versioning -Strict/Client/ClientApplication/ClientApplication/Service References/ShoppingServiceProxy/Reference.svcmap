@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3f909f8a-dd1e-4aaf-9a72-7fe9d2b96fe5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="OnlineShoppingService.xsd" MetadataType="Schema" ID="2bf01578-217b-4e46-b04b-5b54eb3dda90" SourceId="1" SourceUrl="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?xsd=xsd0" />
+    <MetadataFile FileName="OnlineShoppingServiceImpl.wsdl" MetadataType="Wsdl" ID="d2793e5b-41d1-446d-b8f0-992dd7dae3a9" SourceId="1" SourceUrl="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?wsdl" />
+    <MetadataFile FileName="OnlineShoppingService1.xsd" MetadataType="Schema" ID="536e80e7-eab2-4835-ac31-2e336e6ac553" SourceId="1" SourceUrl="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?xsd=xsd2" />
+    <MetadataFile FileName="OnlineShoppingService.wsdl" MetadataType="Wsdl" ID="d9b44bf2-fa17-4777-848d-5d911671b750" SourceId="1" SourceUrl="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?wsdl=wsdl0" />
+    <MetadataFile FileName="OnlineShoppingService.disco" MetadataType="Disco" ID="26156433-995b-4eaf-9963-4f27aa3516b1" SourceId="1" SourceUrl="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?disco" />
+    <MetadataFile FileName="OnlineShoppingService2.xsd" MetadataType="Schema" ID="06589462-5ddd-49cd-95d7-f7bccd7162cb" SourceId="1" SourceUrl="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

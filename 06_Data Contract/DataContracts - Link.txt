@@ -1,0 +1,9 @@
+http://dotnetmentors.com/data-member-attributes-and-enum-member-attributes-of-wcf-data-contract.aspx
+
+http://dotnetmentors.com/wcf-data-contract-attribute.aspx
+
+http://www.wcftutorial.net/data-contract.aspx
+
+http://www.codeproject.com/Articles/300607/DataContract-Vs-MessageContract
+
+http://www.biztalkgurus.com/biztalk_server/biztalk_blogs/b/biztalksyn/archive/2008/05/13/datacontracts-without-attributes-poco-support-in-net-3-5-sp1.aspx

@@ -1,0 +1,10 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceLib\PrimaryServiceLib\bin\Debug\PrimaryServiceLib.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceLib\PrimaryServiceLib\bin\Debug\PrimaryServiceLib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceLib\PrimaryServiceLib\bin\Debug\PrimaryServiceLib.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceLib\PrimaryServiceLib\obj\Debug\PrimaryServiceLib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceLib\PrimaryServiceLib\obj\Debug\PrimaryServiceLib.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceLib\PrimaryServiceLib\bin\Debug\PrimaryServiceLib.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceLib\PrimaryServiceLib\bin\Debug\PrimaryServiceLib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceLib\PrimaryServiceLib\bin\Debug\PrimaryServiceLib.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceLib\PrimaryServiceLib\obj\Debug\PrimaryServiceLib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceLib\PrimaryServiceLib\obj\Debug\PrimaryServiceLib.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthorizationHost", "..\AuthorizationHost\AuthorizationHost.csproj", "{EF630969-9F3C-4A30-AD97-CA6644B0BE38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomValidator", "..\CustomValidator\CustomValidator.csproj", "{18D0D22C-BBF0-4DF5-8A2F-0237B8C44624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authorization Service", "Authorization Service.csproj", "{86BA2629-53CA-4874-B41C-61609FAC1DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF630969-9F3C-4A30-AD97-CA6644B0BE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF630969-9F3C-4A30-AD97-CA6644B0BE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF630969-9F3C-4A30-AD97-CA6644B0BE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF630969-9F3C-4A30-AD97-CA6644B0BE38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18D0D22C-BBF0-4DF5-8A2F-0237B8C44624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18D0D22C-BBF0-4DF5-8A2F-0237B8C44624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18D0D22C-BBF0-4DF5-8A2F-0237B8C44624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18D0D22C-BBF0-4DF5-8A2F-0237B8C44624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BA2629-53CA-4874-B41C-61609FAC1DAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BA2629-53CA-4874-B41C-61609FAC1DAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BA2629-53CA-4874-B41C-61609FAC1DAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BA2629-53CA-4874-B41C-61609FAC1DAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

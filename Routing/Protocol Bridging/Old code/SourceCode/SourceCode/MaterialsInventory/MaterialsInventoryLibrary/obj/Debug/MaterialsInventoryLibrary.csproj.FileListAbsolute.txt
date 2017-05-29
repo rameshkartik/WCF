@@ -1,0 +1,10 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MaterialsInventoryLibrary\MaterialsInventoryLibrary\bin\Debug\MaterialsInventoryLibrary.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MaterialsInventoryLibrary\MaterialsInventoryLibrary\bin\Debug\MaterialsInventoryLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MaterialsInventoryLibrary\MaterialsInventoryLibrary\bin\Debug\MaterialsInventoryLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MaterialsInventoryLibrary\MaterialsInventoryLibrary\obj\Debug\MaterialsInventoryLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MaterialsInventoryLibrary\MaterialsInventoryLibrary\obj\Debug\MaterialsInventoryLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MaterialsInventoryLibrary\bin\Debug\MaterialsInventoryLibrary.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MaterialsInventoryLibrary\bin\Debug\MaterialsInventoryLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MaterialsInventoryLibrary\bin\Debug\MaterialsInventoryLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MaterialsInventoryLibrary\obj\Debug\MaterialsInventoryLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MaterialsInventoryLibrary\obj\Debug\MaterialsInventoryLibrary.pdb

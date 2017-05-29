@@ -1,0 +1,13 @@
+http://dotnetmentors.com/tutorial-on-wcf-message-contract-by-example.aspx
+
+
+http://www.dotnet-tricks.com/Tutorial/wcf/3ISW280913-Understanding-different-types-of-WCF-Contracts.html
+
+
+
+
+-by default wcf take care of creating soap messages according to data and service contracts
+-some time full cntrol required on soap message structure to provide extra layer of secuiruty
+-complete control over the content of soap header and soap body
+-soap headers are perfect place for lic key
+- change in datacontract, need to regenerate the proxy,change in message contract no need. helpful in entity changes often

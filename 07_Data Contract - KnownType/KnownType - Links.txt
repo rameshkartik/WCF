@@ -1,0 +1,1 @@
+http://www.codeproject.com/Articles/738844/Using-WCF-Data-Contract-Known-Types-by-Example

@@ -1,0 +1,22 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\bin\Debug\CafeShopServiceHost.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\bin\Debug\CafeShopServiceHost.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\bin\Debug\CafeShopServiceHost.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\bin\Debug\CafeShopService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\bin\Debug\CafeShopService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\obj\Debug\CafeShopServiceHost.csprojResolveAssemblyReference.cache
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\obj\Debug\CafeShopServiceHost.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\obj\Debug\CafeShopServiceHost.pdb
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\bin\Debug\CafeShopServiceHost.exe.config
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\obj\Debug\CafeShopServiceHost.exe
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\obj\Debug\CafeShopServiceHost.pdb
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\bin\Debug\CafeShopServiceHost.exe
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\bin\Debug\CafeShopServiceHost.pdb
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\bin\Debug\CafeShopService.dll
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\bin\Debug\CafeShopService.pdb
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopServiceHost\obj\Debug\CafeShopServiceHost.csprojResolveAssemblyReference.cache
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Old Code\CafeShopServiceHost\bin\Debug\CafeShopServiceHost.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Old Code\CafeShopServiceHost\obj\Debug\CafeShopServiceHost.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Old Code\CafeShopServiceHost\obj\Debug\CafeShopServiceHost.pdb
+G:\RameshKartik\WCF Articles\Drive Point\15_ServiceBehavior in WCF\Old Code\CafeShopServiceHost\bin\Debug\CafeShopServiceHost.exe.config
+G:\RameshKartik\WCF Articles\Drive Point\15_ServiceBehavior in WCF\Old Code\CafeShopServiceHost\obj\Debug\CafeShopServiceHost.exe
+G:\RameshKartik\WCF Articles\Drive Point\15_ServiceBehavior in WCF\Old Code\CafeShopServiceHost\obj\Debug\CafeShopServiceHost.pdb

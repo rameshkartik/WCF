@@ -1,0 +1,5 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\FoodInvLib\FoodInvLib\bin\Debug\FoodInvLib.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\FoodInvLib\FoodInvLib\bin\Debug\FoodInvLib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\FoodInvLib\FoodInvLib\bin\Debug\FoodInvLib.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\FoodInvLib\FoodInvLib\obj\Debug\FoodInvLib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\FoodInvLib\FoodInvLib\obj\Debug\FoodInvLib.pdb

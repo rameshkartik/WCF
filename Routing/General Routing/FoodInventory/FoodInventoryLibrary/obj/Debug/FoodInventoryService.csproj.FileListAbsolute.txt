@@ -1,0 +1,6 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventoryService\FoodInventoryService\bin\Debug\FoodInventoryService.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventoryService\FoodInventoryService\bin\Debug\FoodInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventoryService\FoodInventoryService\bin\Debug\FoodInventoryService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventoryService\FoodInventoryService\obj\Debug\FoodInventoryService.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventoryService\FoodInventoryService\obj\Debug\FoodInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventoryService\FoodInventoryService\obj\Debug\FoodInventoryService.pdb

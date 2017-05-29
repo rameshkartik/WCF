@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b9063b6c-db54-49bf-b361-8d313f502fdd" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8735/Rameshkartik/WCFSamples/SecuredMessageService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SecuredMessageService.xsd" MetadataType="Schema" ID="f2d6dfd8-b77c-4044-9819-569be0358273" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/SecuredMessageService?xsd=xsd1" />
+    <MetadataFile FileName="SecuredMessageService1.xsd" MetadataType="Schema" ID="a2b428ae-e383-4829-b627-81e5bb114f15" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/SecuredMessageService?xsd=xsd0" />
+    <MetadataFile FileName="ISecuredMessageServiceImpl.wsdl" MetadataType="Wsdl" ID="fe169faa-d871-4029-9e10-61ad057741e3" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/SecuredMessageService" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

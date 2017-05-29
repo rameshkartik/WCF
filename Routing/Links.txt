@@ -1,0 +1,22 @@
+http://www.dotnetcurry.com/ShowArticle.aspx?ID=470
+
+http://www.codeproject.com/Articles/772854/WCF-Routing-Service-Part-I-Basic-Concept-Simple-Ro
+
+
+http://www.codeproject.com/Articles/774918/WCF-Routing-Service-Part-II-Context-based-Routing
+
+
+https://seroter.wordpress.com/2011/01/13/wcf-routing-service-deep-dive-part-iiusing-filters/
+
+
+Protocol Bridging
+----------------
+https://btswss.wordpress.com/2011/08/12/protocol-bridging-using-wcf-4-0-routing-service/
+
+
+https://blogs.technet.microsoft.com/meamcs/2012/05/11/protocol-bridging-with-routing-services/
+
+
+Failover
+--------
+http://www.codeproject.com/Articles/778575/WCF-Routing-Service-Part-III-Failover-Load-Balanci

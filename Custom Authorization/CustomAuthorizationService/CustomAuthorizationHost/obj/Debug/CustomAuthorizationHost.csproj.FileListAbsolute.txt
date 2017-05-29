@@ -1,0 +1,13 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\bin\Debug\CustomAuthorizationHost.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\bin\Debug\CustomAuthorizationHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\bin\Debug\CustomAuthorizationHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\bin\Debug\CustomAuthorizationService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\bin\Debug\CustomAuthorizationService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\obj\Debug\CustomAuthorizationHost.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\obj\Debug\CustomAuthorizationHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\obj\Debug\CustomAuthorizationHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\bin\Debug\CustomUsernameValidator.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\bin\Debug\CustomUsernameValidator.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\bin\Debug\CustomAuthorizationHost.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\obj\Debug\CustomAuthorizationHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Custom Authorization\CustomAuthorizationService\CustomAuthorizationHost\obj\Debug\CustomAuthorizationHost.pdb

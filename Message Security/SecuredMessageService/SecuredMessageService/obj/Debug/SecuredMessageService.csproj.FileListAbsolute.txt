@@ -1,0 +1,5 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.dll.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageService\obj\Debug\SecuredMessageService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageService\obj\Debug\SecuredMessageService.pdb

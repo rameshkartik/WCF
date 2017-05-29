@@ -1,0 +1,5 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\05_Service Contract\Client\Client\bin\Debug\Client.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\05_Service Contract\Client\Client\bin\Debug\Client.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\05_Service Contract\Client\Client\bin\Debug\Client.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\05_Service Contract\Client\Client\obj\Debug\Client.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\05_Service Contract\Client\Client\obj\Debug\Client.pdb

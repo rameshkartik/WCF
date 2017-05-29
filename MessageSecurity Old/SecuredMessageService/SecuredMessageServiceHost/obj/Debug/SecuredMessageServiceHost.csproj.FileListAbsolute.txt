@@ -1,0 +1,16 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.csprojResolveAssemblyReference.cache
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe.config
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.pdb
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.dll
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.pdb
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.csprojResolveAssemblyReference.cache
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.exe
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.pdb

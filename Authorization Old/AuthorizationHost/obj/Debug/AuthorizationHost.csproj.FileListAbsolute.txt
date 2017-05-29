@@ -1,0 +1,19 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\AuthorizationHost\bin\Debug\AuthorizationHost.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\AuthorizationHost\bin\Debug\AuthorizationHost.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\AuthorizationHost\bin\Debug\AuthorizationHost.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\AuthorizationHost\bin\Debug\Authorization.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\AuthorizationHost\bin\Debug\Authorization.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\AuthorizationHost\obj\Debug\AuthorizationHost.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\AuthorizationHost\obj\Debug\AuthorizationHost.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\AuthorizationHost\bin\Debug\CustomValidator.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\AuthorizationHost\bin\Debug\CustomValidator.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\AuthorizationHost\obj\Debug\AuthorizationHost.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\AuthorizationHost\bin\Debug\alo tAuthorizationHost.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\AuthorizationHost\bin\Debug\alo tAuthorizationHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\AuthorizationHost\bin\Debug\alo tAuthorizationHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\AuthorizationHost\bin\Debug\Authorization.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\AuthorizationHost\bin\Debug\CustomValidator.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\AuthorizationHost\bin\Debug\Authorization.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\AuthorizationHost\bin\Debug\CustomValidator.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\AuthorizationHost\obj\Debug\alo tAuthorizationHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\AuthorizationHost\obj\Debug\alo tAuthorizationHost.pdb

@@ -1,0 +1,11 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MainRoutingService\MainRoutingService\bin\Debug\MainRoutingService.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MainRoutingService\MainRoutingService\bin\Debug\MainRoutingService.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MainRoutingService\MainRoutingService\bin\Debug\MainRoutingService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MainRoutingService\MainRoutingService\obj\Debug\MainRoutingService.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MainRoutingService\MainRoutingService\obj\Debug\MainRoutingService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MainRoutingService\MainRoutingService\obj\Debug\MainRoutingService.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MainRoutingService\MainRoutingService\bin\Debug\MainRoutingService.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MainRoutingService\MainRoutingService\obj\Debug\MainRoutingService.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MainRoutingService\MainRoutingService\obj\Debug\MainRoutingService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MainRoutingService\MainRoutingService\bin\Debug\MainRoutingService.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MainRoutingService\MainRoutingService\bin\Debug\MainRoutingService.pdb

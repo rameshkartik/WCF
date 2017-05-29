@@ -1,0 +1,8 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\New\Validator\CustomValidator\bin\Debug\CustomValidator.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\New\Validator\CustomValidator\bin\Debug\CustomValidator.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\New\Validator\CustomValidator\obj\Debug\CustomValidator.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\New\Validator\CustomValidator\obj\Debug\CustomValidator.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\MessageSecurity_Username\Validator\CustomValidator\bin\Debug\CustomValidator.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\MessageSecurity_Username\Validator\CustomValidator\bin\Debug\CustomValidator.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\MessageSecurity_Username\Validator\CustomValidator\obj\Debug\CustomValidator.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\MessageSecurity_Username\Validator\CustomValidator\obj\Debug\CustomValidator.pdb

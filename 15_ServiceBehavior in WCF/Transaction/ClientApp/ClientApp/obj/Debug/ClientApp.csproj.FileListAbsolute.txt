@@ -1,0 +1,5 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\ClientApp\ClientApp\obj\Debug\ClientApp.pdb

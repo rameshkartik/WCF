@@ -1,0 +1,16 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceHost\bin\Debug\PrimaryServiceHost.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceHost\bin\Debug\PrimaryServiceHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceHost\bin\Debug\PrimaryServiceHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceHost\bin\Debug\PrimaryServiceLib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceHost\bin\Debug\PrimaryServiceLib.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceHost\obj\Debug\PrimaryServiceHost.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceHost\obj\Debug\PrimaryServiceHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\PrimaryServiceHost\obj\Debug\PrimaryServiceHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceHost\bin\Debug\PrimaryServiceHost.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceHost\obj\Debug\PrimaryServiceHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceHost\obj\Debug\PrimaryServiceHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceHost\bin\Debug\PrimaryServiceHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceHost\bin\Debug\PrimaryServiceHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceHost\bin\Debug\PrimaryServiceLib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceHost\bin\Debug\PrimaryServiceLib.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Primary Service\PrimaryServiceHost\obj\Debug\PrimaryServiceHost.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Authorization\bin\Debug\Authorization.dll.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Authorization\bin\Debug\Authorization.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Authorization\bin\Debug\Authorization.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Authorization\obj\Debug\Authorization.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Authorization\obj\Debug\Authorization.pdb

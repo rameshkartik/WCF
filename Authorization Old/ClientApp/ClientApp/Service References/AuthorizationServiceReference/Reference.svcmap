@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="71fb50b4-2ce0-4da8-a1b5-2789d9f9846f" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8735/Rameshkartik/WCFSamples/AuthorizationService" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="AuthorizationService.disco" MetadataType="Disco" ID="89082a52-2ce7-4697-b024-a7b291d4ae9f" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/AuthorizationService?disco" />
+    <MetadataFile FileName="AuthorizationService.xsd" MetadataType="Schema" ID="da45dd8f-b551-4eaf-80ca-fe5f12e97949" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/AuthorizationService?xsd=xsd1" />
+    <MetadataFile FileName="AuthorizationService1.xsd" MetadataType="Schema" ID="9d0431a3-9736-4ac1-93a5-f3079dd83cf6" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/AuthorizationService?xsd=xsd0" />
+    <MetadataFile FileName="AuthorizationService.wsdl" MetadataType="Wsdl" ID="927077cf-4ebd-4b48-b800-f214a9358f5d" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/AuthorizationService?wsdl=wsdl0" />
+    <MetadataFile FileName="AuthorizeImpl.wsdl" MetadataType="Wsdl" ID="e5374388-0704-440d-afd5-dc6a5635f698" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/AuthorizationService?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

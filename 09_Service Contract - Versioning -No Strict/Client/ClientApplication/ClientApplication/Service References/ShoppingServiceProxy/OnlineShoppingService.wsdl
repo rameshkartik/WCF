@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://Rameshkartik/WCFSamples/OnlineShoppingService" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://Rameshkartik/WCFSamples/OnlineShoppingService" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://Rameshkartik/WCFSamples/OnlineShoppingService/Imports">
+      <xsd:import schemaLocation="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?xsd=xsd0" namespace="http://Rameshkartik/WCFSamples/OnlineShoppingService" />
+      <xsd:import schemaLocation="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Rameshkartik.WCFSamples.OnlineShoppingService.Contracts" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="OnlineShoppingService_GetWholeSaleDealerInfo_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetWholeSaleDealerInfo" />
+  </wsdl:message>
+  <wsdl:message name="OnlineShoppingService_GetWholeSaleDealerInfo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetWholeSaleDealerInfoResponse" />
+  </wsdl:message>
+  <wsdl:message name="OnlineShoppingService_GetToyInfo_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetToyInfo" />
+  </wsdl:message>
+  <wsdl:message name="OnlineShoppingService_GetToyInfo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetToyInfoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="OnlineShoppingService">
+    <wsdl:operation name="GetWholeSaleDealerInfo">
+      <wsdl:input wsaw:Action="http://Rameshkartik/WCFSamples/OnlineShoppingService/OnlineShoppingService/GetWholeSaleDealerInfo" message="tns:OnlineShoppingService_GetWholeSaleDealerInfo_InputMessage" />
+      <wsdl:output wsaw:Action="http://Rameshkartik/WCFSamples/OnlineShoppingService/OnlineShoppingService/GetWholeSaleDealerInfoResponse" message="tns:OnlineShoppingService_GetWholeSaleDealerInfo_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetToyInfo">
+      <wsdl:input wsaw:Action="http://Rameshkartik/WCFSamples/OnlineShoppingService/OnlineShoppingService/GetToyInfo" message="tns:OnlineShoppingService_GetToyInfo_InputMessage" />
+      <wsdl:output wsaw:Action="http://Rameshkartik/WCFSamples/OnlineShoppingService/OnlineShoppingService/GetToyInfoResponse" message="tns:OnlineShoppingService_GetToyInfo_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

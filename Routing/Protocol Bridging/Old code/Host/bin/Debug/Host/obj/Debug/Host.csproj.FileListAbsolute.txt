@@ -1,0 +1,16 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\bin\Debug\Host.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\bin\Debug\Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\bin\Debug\Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\bin\Debug\ServiceLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\bin\Debug\ServiceLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\obj\Debug\Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\obj\Debug\Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\Self Hosting Code\Host\bin\Debug\Host.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\Self Hosting Code\Host\obj\Debug\Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\Self Hosting Code\Host\obj\Debug\Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\Self Hosting Code\Host\bin\Debug\Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\Self Hosting Code\Host\bin\Debug\Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\Self Hosting Code\Host\bin\Debug\ServiceLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\Self Hosting Code\Host\bin\Debug\ServiceLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\Self Hosting Code\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache

@@ -1,0 +1,23 @@
+What is the Service Contract?
+
+-defines functionality which is exposed to the outside world
+-functionlity expressed in the form of operations
+-as per the operations defined ,soap messages with schemas are exhanged
+
+
+How do we need to define?
+
+-example code
+-class library for an interface and the service contract - useful for versioning,deployment
+- To include in the WSDL docu, use [ServiceContract] and [Operation Contract] attribute
+- interface without [operation contract], it will not be included in WSDL[opt in model]
+-production code should always be separetw wit implementation
+
+How should we implement?
+Just explain
+
+The client
+add service reference to obtain the proxy which mimics the funcitoality of a service
+
+How to extract?
+Use SVCUtil.exe

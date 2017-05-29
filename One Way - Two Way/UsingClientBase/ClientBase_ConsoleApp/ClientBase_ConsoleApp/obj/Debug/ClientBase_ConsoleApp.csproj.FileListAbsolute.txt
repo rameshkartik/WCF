@@ -1,0 +1,8 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\UsingClientBase\ClientBase_ConsoleApp\ClientBase_ConsoleApp\bin\Debug\ClientBase_ConsoleApp.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\UsingClientBase\ClientBase_ConsoleApp\ClientBase_ConsoleApp\bin\Debug\ClientBase_ConsoleApp.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\UsingClientBase\ClientBase_ConsoleApp\ClientBase_ConsoleApp\bin\Debug\ClientBase_ConsoleApp.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\UsingClientBase\ClientBase_ConsoleApp\ClientBase_ConsoleApp\obj\Debug\ClientBase_ConsoleApp.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\UsingClientBase\ClientBase_ConsoleApp\ClientBase_ConsoleApp\obj\Debug\ClientBase_ConsoleApp.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\UsingClientBase\ClientBase_ConsoleApp\ClientBase_ConsoleApp\obj\Debug\ClientBase_ConsoleApp.csprojResolveAssemblyReference.cache
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\UsingClientBase\ClientBase_ConsoleApp\ClientBase_ConsoleApp\bin\Debug\ServiceLibrary.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\UsingClientBase\ClientBase_ConsoleApp\ClientBase_ConsoleApp\bin\Debug\ServiceLibrary.pdb

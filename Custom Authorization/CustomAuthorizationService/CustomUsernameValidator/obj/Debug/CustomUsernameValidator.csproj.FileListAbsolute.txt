@@ -1,0 +1,5 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomUsernameValidator\bin\Debug\CustomUsernameValidator.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomUsernameValidator\bin\Debug\CustomUsernameValidator.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomUsernameValidator\obj\Debug\CustomUsernameValidator.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomUsernameValidator\obj\Debug\CustomUsernameValidator.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomUsernameValidator\obj\Debug\CustomUsernameValidator.csprojResolveAssemblyReference.cache

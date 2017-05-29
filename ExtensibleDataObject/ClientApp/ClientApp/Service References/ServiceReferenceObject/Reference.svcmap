@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b5ad7da9-f286-4930-9412-93c4704a9fcc" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8735/Rameshkartik/WCFSamples/ExtensibleDataObject/PatientDetails" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Implementation.wsdl" MetadataType="Wsdl" ID="5fc2cff5-aed0-4813-8fee-37b4661f5de6" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/ExtensibleDataObject/PatientDetails?wsdl" />
+    <MetadataFile FileName="PatientDetails.disco" MetadataType="Disco" ID="83e31f6e-4e84-4eb7-9db3-bfe84052b514" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/ExtensibleDataObject/PatientDetails?disco" />
+    <MetadataFile FileName="PatientDetails.xsd" MetadataType="Schema" ID="f24c86c7-1bf5-40e2-81f0-231ddffd0f8a" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/ExtensibleDataObject/PatientDetails?xsd=xsd0" />
+    <MetadataFile FileName="PatientDetails1.xsd" MetadataType="Schema" ID="59072830-927f-423d-b55b-91d7b58f3aab" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/ExtensibleDataObject/PatientDetails?xsd=xsd2" />
+    <MetadataFile FileName="PatientDetails2.xsd" MetadataType="Schema" ID="6feb4496-91cf-49ee-aba1-ce9bc6813de5" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/ExtensibleDataObject/PatientDetails?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

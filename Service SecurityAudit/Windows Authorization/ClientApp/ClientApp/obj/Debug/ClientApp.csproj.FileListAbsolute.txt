@@ -1,0 +1,29 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\New\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\New\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\New\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\New\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\New\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\MessageSecurity_Username\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\MessageSecurity_Username\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\MessageSecurity_Username\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\Windows Username\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\Windows Username\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\Windows Username\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\Windows Username\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\Windows Username\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\Windows Username\ClientApp\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\Authentication using Message Security 1\Source Code\Windows Username\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\Authentication using Message Security 1\Source Code\Windows Username\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\Authentication using Message Security 1\Source Code\Windows Username\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\Authentication using Message Security 1\Source Code\Windows Username\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\Authentication using Message Security 1\Source Code\Windows Username\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\ClientApp\ClientApp\bin\Debug\ClientApp.pdb

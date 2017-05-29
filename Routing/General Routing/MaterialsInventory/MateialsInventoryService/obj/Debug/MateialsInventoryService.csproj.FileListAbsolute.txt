@@ -1,0 +1,14 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MaterialsInventoryLibrary\MateialsInventoryService\bin\MateialsInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MaterialsInventoryLibrary\MateialsInventoryService\bin\MateialsInventoryService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MaterialsInventoryLibrary\MateialsInventoryService\obj\Debug\MateialsInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MaterialsInventoryLibrary\MateialsInventoryService\obj\Debug\MateialsInventoryService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MaterialsInventoryLibrary\MateialsInventoryService\bin\MaterialsInventoryLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\MaterialsInventoryLibrary\MateialsInventoryService\bin\MaterialsInventoryLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MateialsInventoryService\bin\MateialsInventoryService.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MateialsInventoryService\bin\MateialsInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MateialsInventoryService\bin\MateialsInventoryService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MateialsInventoryService\bin\MaterialsInventoryLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MateialsInventoryService\bin\MaterialsInventoryLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MateialsInventoryService\obj\Debug\MateialsInventoryService.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MateialsInventoryService\obj\Debug\MateialsInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\MaterialsInventory\MateialsInventoryService\obj\Debug\MateialsInventoryService.pdb

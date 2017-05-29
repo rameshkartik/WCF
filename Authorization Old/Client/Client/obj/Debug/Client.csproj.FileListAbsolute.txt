@@ -1,0 +1,9 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Client\Client\bin\Debug\Client.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Client\Client\bin\Debug\Client.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Client\Client\bin\Debug\Client.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Client\Client\obj\Debug\Client.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Client\Client\obj\Debug\Client.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\Client\Client\bin\Debug\Client.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\Client\Client\obj\Debug\Client.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\Client\Client\obj\Debug\Client.pdb

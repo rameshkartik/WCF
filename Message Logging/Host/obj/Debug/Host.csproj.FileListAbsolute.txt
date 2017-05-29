@@ -1,0 +1,32 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\bin\Debug\Host.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\bin\Debug\Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\bin\Debug\Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\bin\Debug\ServiceLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\bin\Debug\ServiceLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\obj\Debug\Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\obj\Debug\Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Protection Level\Host\bin\Debug\Host.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Protection Level\Host\obj\Debug\Host.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Protection Level\Host\obj\Debug\Host.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Protection Level\Host\bin\Debug\Host.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Protection Level\Host\bin\Debug\Host.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Protection Level\Host\bin\Debug\ServiceLibrary.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Protection Level\Host\bin\Debug\ServiceLibrary.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Protection Level\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\Host\bin\Debug\Host.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\Host\obj\Debug\Host.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\Host\obj\Debug\Host.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\Host\bin\Debug\Host.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\Host\bin\Debug\Host.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\Host\bin\Debug\ServiceLibrary.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\Host\bin\Debug\ServiceLibrary.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\One Way - Two Way\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Message Logging\Host\bin\Debug\Host.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Message Logging\Host\obj\Debug\Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Message Logging\Host\obj\Debug\Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Message Logging\Host\bin\Debug\Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Message Logging\Host\bin\Debug\Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Message Logging\Host\bin\Debug\ServiceLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Message Logging\Host\bin\Debug\ServiceLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Message Logging\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache

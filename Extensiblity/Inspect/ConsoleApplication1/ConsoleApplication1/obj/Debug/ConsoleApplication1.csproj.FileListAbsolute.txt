@@ -1,0 +1,5 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

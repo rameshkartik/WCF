@@ -1,0 +1,22 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Hosting\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Hosting\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Hosting\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Hosting\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Hosting\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Hosting\ClientApp\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Hosting\WAS Hosting\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Hosting\WAS Hosting\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Hosting\WAS Hosting\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Hosting\WAS Hosting\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Hosting\WAS Hosting\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\WAS Hosting\ClientApp\ClientApp\bin\Debug\ClientApp.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\WAS Hosting\ClientApp\ClientApp\obj\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\WAS Hosting\ClientApp\ClientApp\obj\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\WAS Hosting\ClientApp\ClientApp\bin\Debug\ClientApp.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\WAS Hosting\ClientApp\ClientApp\bin\Debug\ClientApp.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Hosting\WAS Hosting\ClientApp\ClientApp\obj\Debug\ClientApp.csprojResolveAssemblyReference.cache

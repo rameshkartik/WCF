@@ -1,0 +1,6 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\ClientInspector\ClientInspector\bin\Debug\ClientInspector.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\ClientInspector\ClientInspector\bin\Debug\ClientInspector.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\ClientInspector\ClientInspector\obj\Debug\ClientInspector.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\ClientInspector\ClientInspector\obj\Debug\ClientInspector.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\Client\Client\bin\Debug\ClientInspector.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\Client\Client\bin\Debug\ClientInspector.pdb

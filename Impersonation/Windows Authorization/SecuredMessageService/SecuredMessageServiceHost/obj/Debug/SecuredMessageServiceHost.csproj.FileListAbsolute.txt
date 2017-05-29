@@ -1,0 +1,40 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Service SecurityAudit\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageServiceHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\bin\Debug\SecuredMessageService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\Windows Authorization\SecuredMessageService\SecuredMessageServiceHost\obj\Debug\SecuredMessageServiceHost.pdb

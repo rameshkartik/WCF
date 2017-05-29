@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/Rameshkartik.WCFSamples.CafeShopService.Contracts" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/Rameshkartik.WCFSamples.CafeShopService.Contracts" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="CurrentData">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="CofeesSold" type="xs:int" />
+      <xs:element minOccurs="0" name="DateWhenExecuted" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="InstanceNumber" type="xs:int" />
+      <xs:element minOccurs="0" name="RegisterMyCofeeShop" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="ThreadID" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="TotalSaleonCofee" type="xs:decimal" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="CurrentData" nillable="true" type="tns:CurrentData" />
+</xs:schema>

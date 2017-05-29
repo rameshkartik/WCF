@@ -1,0 +1,21 @@
+Hints
+-----
+
+Intro
+-----
+-brief about confidentiality,integrity
+-Sign,Encrypt and none -> correleat
+
+
+
+
+
+
+
+WCF Protectial Level
+---------------------
+
+
+
+Sample
+------

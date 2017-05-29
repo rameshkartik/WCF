@@ -1,0 +1,11 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageClient\SecuredMessageClient\bin\Debug\SecuredMessageClient.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageClient\SecuredMessageClient\bin\Debug\SecuredMessageClient.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageClient\SecuredMessageClient\bin\Debug\SecuredMessageClient.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageClient\SecuredMessageClient\obj\Debug\SecuredMessageClient.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageClient\SecuredMessageClient\obj\Debug\SecuredMessageClient.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageClient\SecuredMessageClient\obj\Debug\SecuredMessageClient.csprojResolveAssemblyReference.cache
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageClient\SecuredMessageClient\bin\Debug\SecuredMessageClient.exe.config
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageClient\SecuredMessageClient\obj\Debug\SecuredMessageClient.exe
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageClient\SecuredMessageClient\obj\Debug\SecuredMessageClient.pdb
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageClient\SecuredMessageClient\bin\Debug\SecuredMessageClient.exe
+G:\RameshKartik\WCF Articles\Drive Point\MessageSecurity\SecuredMessageClient\SecuredMessageClient\bin\Debug\SecuredMessageClient.pdb

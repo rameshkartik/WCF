@@ -1,0 +1,22 @@
+http://blog.adilakhter.com/2009/08/06/wcf-security-wcf-performance-protectionlevel-part-1/
+
+
+
+http://blogs.msdn.com/b/saurabs/archive/2012/05/15/wcf-interop-understanding-protection-level.aspx
+
+digital signed
+--------------
+http://searchsecurity.techtarget.com/definition/digital-signature
+
+CRL
+
+http://www.opus1.com/www/whitepapers/whatisacrl.pdf
+
+
+
+http://serverfault.com/questions/506451/drawbacks-of-changing-certificate-revocation-mode
+
+
+http://www.request-response.com/blog/PermaLink,guid,e9bb929b-d0b4-4626-b302-1d2715fc344a.aspx
+
+https://msdn.microsoft.com/en-us/library/system.security.cryptography.x509certificates.x509chainpolicy.revocationmode(v=vs.110).aspx

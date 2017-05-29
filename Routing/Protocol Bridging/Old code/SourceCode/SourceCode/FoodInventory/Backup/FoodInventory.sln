@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodInventoryLibrary", "FoodInventoryLibrary\FoodInventoryLibrary.csproj", "{15B3E0D2-6217-493A-A690-158C497F5318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodInventoryService_IIS", "FoodInventoryService_IIS\FoodInventoryService_IIS.csproj", "{B78BF11C-4E03-4614-9559-58103804EED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaterialsInventoryLibrary", "..\MaterialsInventory\MaterialsInventoryLibrary\MaterialsInventoryLibrary.csproj", "{BE909A5D-2688-4D20-86E7-5B09044FA268}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MateialsInventoryService", "..\MaterialsInventory\MateialsInventoryService\MateialsInventoryService.csproj", "{74C136A1-45EC-4CE2-8507-9EFCD40B0434}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78BF11C-4E03-4614-9559-58103804EED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78BF11C-4E03-4614-9559-58103804EED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78BF11C-4E03-4614-9559-58103804EED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78BF11C-4E03-4614-9559-58103804EED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE909A5D-2688-4D20-86E7-5B09044FA268}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE909A5D-2688-4D20-86E7-5B09044FA268}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE909A5D-2688-4D20-86E7-5B09044FA268}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE909A5D-2688-4D20-86E7-5B09044FA268}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C136A1-45EC-4CE2-8507-9EFCD40B0434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C136A1-45EC-4CE2-8507-9EFCD40B0434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C136A1-45EC-4CE2-8507-9EFCD40B0434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C136A1-45EC-4CE2-8507-9EFCD40B0434}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

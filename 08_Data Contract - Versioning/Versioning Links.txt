@@ -1,0 +1,17 @@
+http://www.codeproject.com/Articles/341523/WCF-Backwards-Compatibility-and-Versioning-Strateg
+http://www.codeproject.com/Articles/345926/WCF-Backward-Compatibility-and-Versioning-Strategi
+
+http://devproconnections.com/development/versioning-wcf-services-part-i
+
+http://www.thatindigogirl.com/ - blog
+
+http://devproconnections.com/development/versioning-wcf-services-part-i
+http://devproconnections.com/development/versioning-wcf-services-part-ii
+
+-software dev ongoing changes
+-any new change in operation,service, result in wsdl change,lead new versoin
+-technichues and processes are there to continuallly service components update based on service changes
+- changes not lead to the break of contract
+
+-new contract unavoidable in some situations
+name of operation changedm mandatory field aded. this makes type change reult in a break of a contract.

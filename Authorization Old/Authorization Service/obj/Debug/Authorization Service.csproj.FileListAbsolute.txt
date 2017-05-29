@@ -1,0 +1,10 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Authorization Service\bin\Debug\Authorization.dll.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Authorization Service\bin\Debug\Authorization.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Authorization Service\bin\Debug\Authorization.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Authorization Service\obj\Debug\Authorization.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\Authorization Service\obj\Debug\Authorization.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\Authorization Service\bin\Debug\Authorization.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\Authorization Service\bin\Debug\Authorization.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\Authorization Service\bin\Debug\Authorization.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\Authorization Service\obj\Debug\Authorization.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Authorization\Authorization Service\obj\Debug\Authorization.pdb

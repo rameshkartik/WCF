@@ -1,0 +1,10 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 1\BackupServiceLib\BackupService1Lib\bin\Debug\BackupService1Lib.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 1\BackupServiceLib\BackupService1Lib\bin\Debug\BackupService1Lib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 1\BackupServiceLib\BackupService1Lib\bin\Debug\BackupService1Lib.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 1\BackupServiceLib\BackupService1Lib\obj\Debug\BackupService1Lib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 1\BackupServiceLib\BackupService1Lib\obj\Debug\BackupService1Lib.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 1\BackupService1Lib\BackupService1Lib\bin\Debug\BackupService1Lib.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 1\BackupService1Lib\BackupService1Lib\bin\Debug\BackupService1Lib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 1\BackupService1Lib\BackupService1Lib\bin\Debug\BackupService1Lib.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 1\BackupService1Lib\BackupService1Lib\obj\Debug\BackupService1Lib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 1\BackupService1Lib\BackupService1Lib\obj\Debug\BackupService1Lib.pdb

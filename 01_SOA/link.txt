@@ -1,0 +1,34 @@
+Decoupled Contract
+-------------------
+http://www.pearltrees.com/vikasjee/data-related-design-patterns/id3887622#item30570242
+
+http://soapatterns.org/design_patterns/decoupled_contract
+
+http://artofsoftwarereuse.com/2011/03/13/benefits-of-decoupled-service-contracts/
+
+
+Proxy Design pattern
+---------------------
+http://www.dotnet-tricks.com/Tutorial/designpatterns/P40W140713-Proxy-Design-Pattern---C
+
+
+SOAP - What is SOAP?
+--------------------
+http://msdn.microsoft.com/en-us/library/orm-9780596527563-01-10.aspx
+
+
+
+
+http://www.wcftutorial.net/Home.aspx
+
+http://msdn.microsoft.com/en-us/library/vstudio/ms735119(v=vs.90).aspx
+
+http://www.informit.com/articles/article.aspx?p=1317547&seqNum=3
+
+http://www.designpatterns.dk/soa_patterns.html
+
+http://artofsoftwarereuse.com/2011/03/13/benefits-of-decoupled-service-contracts/
+
+http://soapatterns.org/design_patterns/decoupled_contract
+
+http://serviceorientation.com/soaglossary/proxy_capability

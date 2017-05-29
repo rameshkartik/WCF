@@ -1,0 +1,17 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Load Balancing\Client\Client\bin\Debug\Client.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Load Balancing\Client\Client\bin\Debug\Client.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Load Balancing\Client\Client\bin\Debug\Client.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Load Balancing\Client\Client\obj\Debug\Client.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Load Balancing\Client\Client\obj\Debug\Client.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\Client\Client\bin\Debug\Client.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\Client\Client\obj\Debug\Client.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\Client\Client\obj\Debug\Client.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\Client\Client\bin\Debug\Client.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\Client\Client\bin\Debug\Client.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\Client\Client\bin\Debug\Client.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\Client\Client\obj\Debug\Client.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\Client\Client\obj\Debug\Client.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\Client\Client\bin\Debug\Client.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\Client\Client\bin\Debug\Client.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

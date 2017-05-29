@@ -1,0 +1,16 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\Host\Host\bin\Debug\Host.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\Host\Host\bin\Debug\Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\Host\Host\bin\Debug\Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\Host\Host\bin\Debug\FoodInvLib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\Host\Host\bin\Debug\FoodInvLib.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\Host\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\Host\Host\obj\Debug\Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\Host\Host\obj\Debug\Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Host\Host\bin\Debug\Host.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Host\Host\obj\Debug\Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Host\Host\obj\Debug\Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Host\Host\bin\Debug\Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Host\Host\bin\Debug\Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Host\Host\bin\Debug\FoodInvLib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Host\Host\bin\Debug\FoodInvLib.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Host\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache

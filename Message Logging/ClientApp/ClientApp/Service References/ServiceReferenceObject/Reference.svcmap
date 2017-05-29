@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="1fec8407-08d6-471b-809e-33474b2f75df" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8735/Rameshkartik/WCFSamples/MessageExchangePatterns/ServiceLibrary" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceLibrary.xsd" MetadataType="Schema" ID="9150bde5-00b0-433f-8fc8-6836184bd7b1" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/MessageExchangePatterns/ServiceLibrary?xsd=xsd1" />
+    <MetadataFile FileName="Implementation.wsdl" MetadataType="Wsdl" ID="94a2b676-0fda-4e08-8396-8341c0e03e68" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/MessageExchangePatterns/ServiceLibrary?wsdl" />
+    <MetadataFile FileName="ServiceLibrary.disco" MetadataType="Disco" ID="4ef73951-28ac-42ff-8f96-aa2891f058e7" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/MessageExchangePatterns/ServiceLibrary?disco" />
+    <MetadataFile FileName="ServiceLibrary.wsdl" MetadataType="Wsdl" ID="84b986e5-cd9d-4f67-b0cf-293f7849dad2" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/MessageExchangePatterns/ServiceLibrary?wsdl=wsdl0" />
+    <MetadataFile FileName="ServiceLibrary1.xsd" MetadataType="Schema" ID="afcbef05-ec09-4ceb-88ff-4b256c279ee0" SourceId="1" SourceUrl="http://localhost:8735/Rameshkartik/WCFSamples/MessageExchangePatterns/ServiceLibrary?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

@@ -1,0 +1,16 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\ServiceLibrary\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\ServiceLibrary\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\ServiceLibrary\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\ServiceLibrary\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Protection Level\ServiceLibrary\ServiceLibrary\obj\Debug\ServiceLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Fault Contract\ServiceLibrary\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Fault Contract\ServiceLibrary\ServiceLibrary\obj\Debug\ServiceLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Fault Contract\ServiceLibrary\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Fault Contract\ServiceLibrary\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Fault Contract\ServiceLibrary\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\ExtensibleDataObject\ServiceLibrary\ServiceLibrary\bin\Debug\ServiceLibrary.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\ExtensibleDataObject\ServiceLibrary\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\ExtensibleDataObject\ServiceLibrary\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\ExtensibleDataObject\ServiceLibrary\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\ExtensibleDataObject\ServiceLibrary\ServiceLibrary\obj\Debug\ServiceLibrary.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\ExtensibleDataObject\ServiceLibrary\ServiceLibrary\obj\Debug\ServiceLibrary.csprojResolveAssemblyReference.cache

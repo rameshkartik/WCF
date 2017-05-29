@@ -1,0 +1,126 @@
+-Devlpr no need to worry about hw to create architecture
+-already foundaton avail
+-developr look only problm
+-wcf - progmaing framework -abstracts the complexity of creating
+services
+
+
+need to define endpoint? ABC
+
+Address - where service hosted
+Binding - how the message sent
+Contract- what the message contains
+
+ABC makes endpoint
+
+binding -group of elements contains responsible for
+encoding or security.
+each element corresponds to transport ,protocol locazted
+in channel stack.
+chaneel stack - seq of channels tat msg passes thru to 
+a run tim arch
+wcf - prdefined bindings,
+can create custom bindings
+-define ABC, all taken care
+
+-multiple endpoints with diffrnt bindings
+-same service method could implement diffrnt protocols
+and transport options
+-quicly expose your serivce to any kind of client that
+access it
+-.net specific binding- for .net specif clients-benefit
+built in security and performance capab
+-express service using ws-* standards for java,php or any 
+compatible client
+-allowss web clients to connect using REST
+
+-logic/contract and business logic all are same,
+only the binding config difrs
+
+- explain picture
+
+Address - Where service hosted
+location of service
+-can be any type of address,ip address,server name etc
+
+http://myserver.com/service
+transport scheme,server location, and the path is service
+
+protocols
+---------
+http - good protocol for communication overweb
+tcp - fast binary protocol, good in intranet senarios
+named pipe - only for wcf-wcf,fast reliable communication betwen client and server when run on same machine
+MSMQ - queuing of messages, useful in disconnected communications between client and server
+used -  client wants to enqueue and servrice want to consume later
+
+
+
+Behaviour
+----------
+If yu apply behaviour on diffrnt parts of system 
+yu are able to infulence WCF service in regard to things concurrency,session mgmt,throttling,transactions
+behviours can be applid at service,endpoint,operation,contract
+some configuration inconfig, some in code
+
+Service behaviour
+Opeartion behaviour
+endpoint behaviour
+contract behaviour
+
+Service Behaviour
+----------------
+service behaviour attribute making behaviours at service level
+service metadata httpenabled
+
+Operation behaviour
+------------------
+-controls the class methods
+-things able to do Transactional,caller identity,object recycling
+-parameters
+
+Endpoint behaviour
+------------------
+-used at both the service and the client side
+-things such as client credential usage,serializer settings can be managed by applying specific behaviur to the endpoint
+-wcf provides predefined set of behaviours which implements IEndpointbehaviour
+-credential usage in client and service
+
+Contract behaviour
+------------------
+-can be modified or extend any aspect of contract
+- onlly in code
+
+
+
+Various Bindings
+----------------
+- prefixed with net mean they are designed to take advantage of .net and perform many performance enhance operations
+-prfixed with ws- are to be used with all systems and confirm to web standards
+
+
+BasicHttp binding 
+----------------------------------
+- two protocols use HTTP as transfer proto
+- most interoperable bindings 
+-high level of interoperability between WCF and other frmework fr building services
+-
+
+WS HttpBinding
+--------------
+-allows you to use WS-specifications such as WS-SEcurity, WS-Reliable messaging,WS-Atomic Transaction,WS-TRust
+- more secure and reliable than basichttpbinding
+AZASWSSQSSX
+
+-To communicate with WCF clients use .netTcpbinfing, WCF to WCF communication
+
+WCF Configuration Editor
+Binding programatically
+-Base address
+-Automatic endpoints,default Bindings,Default behaviours
+-Setting multiple bindings
+-modifying existing bindings
+
+Create Custom Bindings
+----------------------
+- custom security and  additional transport calls

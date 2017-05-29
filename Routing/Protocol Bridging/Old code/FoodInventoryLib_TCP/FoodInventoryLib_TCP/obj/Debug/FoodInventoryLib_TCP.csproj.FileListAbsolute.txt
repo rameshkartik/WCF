@@ -1,0 +1,6 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryLib_TCP\FoodInventoryLib_TCP\bin\Debug\FoodInventoryLib_TCP.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryLib_TCP\FoodInventoryLib_TCP\bin\Debug\FoodInventoryLib_TCP.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryLib_TCP\FoodInventoryLib_TCP\bin\Debug\FoodInventoryLib_TCP.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryLib_TCP\FoodInventoryLib_TCP\obj\Debug\FoodInventoryLib_TCP.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryLib_TCP\FoodInventoryLib_TCP\obj\Debug\FoodInventoryLib_TCP.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryLib_TCP\FoodInventoryLib_TCP\obj\Debug\FoodInventoryLib_TCP.csprojResolveAssemblyReference.cache

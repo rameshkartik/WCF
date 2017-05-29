@@ -1,0 +1,9 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\ServiceInspector\ServiceInspector\bin\Debug\ServiceInspector.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\ServiceInspector\ServiceInspector\bin\Debug\ServiceInspector.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\ServiceInspector\ServiceInspector\obj\Debug\ServiceInspector.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\ServiceInspector\ServiceInspector\obj\Debug\ServiceInspector.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Inspect\ServiceInspector\ServiceInspector\obj\Debug\ServiceInspector.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\ServiceInspector\ServiceInspector\obj\Debug\ServiceInspector.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\ServiceInspector\ServiceInspector\bin\Debug\ServiceInspector.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\ServiceInspector\ServiceInspector\bin\Debug\ServiceInspector.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Extensiblity\Parameter Inspector\ServiceInspector\ServiceInspector\obj\Debug\ServiceInspector.pdb

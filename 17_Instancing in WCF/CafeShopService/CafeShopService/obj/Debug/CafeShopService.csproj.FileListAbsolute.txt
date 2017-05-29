@@ -1,0 +1,17 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopService\CafeShopService\bin\Debug\CafeShopService.dll.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopService\CafeShopService\bin\Debug\CafeShopService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopService\CafeShopService\bin\Debug\CafeShopService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopService\CafeShopService\obj\Debug\CafeShopService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopService\CafeShopService\obj\Debug\CafeShopService.pdb
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopService\CafeShopService\bin\Debug\CafeShopService.dll.config
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopService\CafeShopService\bin\Debug\CafeShopService.dll
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopService\CafeShopService\bin\Debug\CafeShopService.pdb
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopService\CafeShopService\obj\Debug\CafeShopService.dll
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopService\CafeShopService\obj\Debug\CafeShopService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\CafeShopService\CafeShopService\obj\Debug\CafeShopService.csprojResolveAssemblyReference.cache
+G:\RameshKartik\WCF Articles\Drive Point\18_Instancing and Concurrency in WCF\CafeShopService\CafeShopService\bin\Debug\CafeShopService.dll.config
+G:\RameshKartik\WCF Articles\Drive Point\18_Instancing and Concurrency in WCF\CafeShopService\CafeShopService\bin\Debug\CafeShopService.dll
+G:\RameshKartik\WCF Articles\Drive Point\18_Instancing and Concurrency in WCF\CafeShopService\CafeShopService\bin\Debug\CafeShopService.pdb
+G:\RameshKartik\WCF Articles\Drive Point\18_Instancing and Concurrency in WCF\CafeShopService\CafeShopService\obj\Debug\CafeShopService.csprojResolveAssemblyReference.cache
+G:\RameshKartik\WCF Articles\Drive Point\18_Instancing and Concurrency in WCF\CafeShopService\CafeShopService\obj\Debug\CafeShopService.dll
+G:\RameshKartik\WCF Articles\Drive Point\18_Instancing and Concurrency in WCF\CafeShopService\CafeShopService\obj\Debug\CafeShopService.pdb

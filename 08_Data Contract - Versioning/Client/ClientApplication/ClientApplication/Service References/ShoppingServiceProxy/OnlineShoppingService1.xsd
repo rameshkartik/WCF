@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://Rameshkartik/WCFSamples/OnlineShoppingService" elementFormDefault="qualified" targetNamespace="http://Rameshkartik/WCFSamples/OnlineShoppingService" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?xsd=xsd1" namespace="http://schemas.datacontract.org/2004/07/Rameshkartik.WCFSamples.OnlineShoppingService.Contracts" />
+  <xs:element name="StockAvailability">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sModelNumber" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="StockAvailabilityResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="StockAvailabilityResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CalculatePrice">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sModelNumber" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="iQuantity" type="xs:int" />
+        <xs:element minOccurs="0" name="sDeliveryLocation" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CalculatePriceResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CalculatePriceResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CheckDiscountAmount">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sModelNumber" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="iQuantity" type="xs:int" />
+        <xs:element minOccurs="0" name="sDeliveryLocation" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CheckDiscountAmountResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CheckDiscountAmountResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductInformation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sModelNumber" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductInformationResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="GetProductInformationResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductsAvailableinStores">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sModelNumber" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="iQuantity" type="xs:int" />
+        <xs:element minOccurs="0" name="sDeliveryLocation" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetProductsAvailableinStoresResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="GetProductsAvailableinStoresResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CheckDiscountAmount_NewMethod">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sModelNumber" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="iQuantity" type="xs:int" />
+        <xs:element minOccurs="0" name="sDeliveryLocation" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CheckDiscountAmount_NewMethodResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CheckDiscountAmount_NewMethodResult" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetWholeSaleDealerInfo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sFilterByCity" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetWholeSaleDealerInfoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/Rameshkartik.WCFSamples.OnlineShoppingService.Contracts" minOccurs="0" name="GetWholeSaleDealerInfoResult" nillable="true" type="q1:WholeSaleDealersInfo" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

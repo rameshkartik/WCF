@@ -1,0 +1,4 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\CustomValidator\bin\Debug\CustomValidator.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\CustomValidator\bin\Debug\CustomValidator.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\CustomValidator\obj\Debug\CustomValidator.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\Authorization\CustomValidator\obj\Debug\CustomValidator.pdb

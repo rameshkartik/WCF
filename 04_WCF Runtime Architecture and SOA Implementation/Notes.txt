@@ -1,0 +1,23 @@
+-Every one should know msging patern
+-multilayered archtecture, travels from the client 
+down to a stream
+to transport msg
+-trvls upto the impl of the service
+-passing proxy layr on the client, dispatcher layer on the
+service
+-multi layered allows different messaging patterns to be 
+impl
+-proxy translates calls to wcf msgs and sends 
+thru channel,dispatcher reverse,
+-
+
+http://msdn.microsoft.com/en-us/magazine/cc163302.aspx
+http://www.c-sharpcorner.com/uploadfile/suthish_nair/wcf-architecture/
+
+http://www.biztalkgurus.com/biztalk_server/biztalk_blogs/b/biztalksyn/archive/2008/05/13/datacontracts-without-attributes-poco-support-in-net-3-5-sp1.aspx
+
+http://blog.pluralsight.com/
+
+http://www.wcftutorial.net/data-contract.aspx
+
+http://www.codeproject.com/Articles/738844/Using-WCF-Data-Contract-Known-Types-by-Example

@@ -1,0 +1,22 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Client\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Client\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Client\ClientApplication\ClientApplication\bin\Debug\ClientApplication.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Client\ClientApplication\ClientApplication\obj\Debug\ClientApplication.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Client\ClientApplication\ClientApplication\obj\Debug\ClientApplication.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\07_Data Contract - Versioning\Client\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\07_Data Contract - Versioning\Client\ClientApplication\ClientApplication\obj\Debug\ClientApplication.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\07_Data Contract - Versioning\Client\ClientApplication\ClientApplication\obj\Debug\ClientApplication.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\07_Data Contract - Versioning\Client\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\07_Data Contract - Versioning\Client\ClientApplication\ClientApplication\bin\Debug\ClientApplication.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\07_Data Contract - Versioning\Client\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csprojResolveAssemblyReference.cache
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\08_Service Contract - Versioning\08_Service Contract - Versioning -No Strict\Client\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\08_Service Contract - Versioning\08_Service Contract - Versioning -No Strict\Client\ClientApplication\ClientApplication\obj\Debug\ClientApplication.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\08_Service Contract - Versioning\08_Service Contract - Versioning -No Strict\Client\ClientApplication\ClientApplication\obj\Debug\ClientApplication.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\08_Service Contract - Versioning\08_Service Contract - Versioning -No Strict\Client\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\08_Service Contract - Versioning\08_Service Contract - Versioning -No Strict\Client\ClientApplication\ClientApplication\bin\Debug\ClientApplication.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\11_Message Contract\Client\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\11_Message Contract\Client\ClientApplication\ClientApplication\obj\Debug\ClientApplication.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\11_Message Contract\Client\ClientApplication\ClientApplication\obj\Debug\ClientApplication.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\11_Message Contract\Client\ClientApplication\ClientApplication\bin\Debug\ClientApplication.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\11_Message Contract\Client\ClientApplication\ClientApplication\bin\Debug\ClientApplication.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\11_Message Contract\Client\ClientApplication\ClientApplication\obj\Debug\ClientApplication.csprojResolveAssemblyReference.cache

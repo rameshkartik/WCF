@@ -1,0 +1,7 @@
+C:\Users\Kiruthika\Downloads\Generic WCF Message Inspector\C#\SampleWCFService\bin\SampleWCFService.dll
+C:\Users\Kiruthika\Downloads\Generic WCF Message Inspector\C#\SampleWCFService\bin\SampleWCFService.pdb
+C:\Users\Kiruthika\Downloads\Generic WCF Message Inspector\C#\SampleWCFService\bin\SampleGenericWcfMessageInterceptor.dll
+C:\Users\Kiruthika\Downloads\Generic WCF Message Inspector\C#\SampleWCFService\bin\SampleGenericWcfMessageInterceptor.pdb
+C:\Users\Kiruthika\Downloads\Generic WCF Message Inspector\C#\SampleWCFService\obj\Debug\SampleWCFService.csprojResolveAssemblyReference.cache
+C:\Users\Kiruthika\Downloads\Generic WCF Message Inspector\C#\SampleWCFService\obj\Debug\SampleWCFService.dll
+C:\Users\Kiruthika\Downloads\Generic WCF Message Inspector\C#\SampleWCFService\obj\Debug\SampleWCFService.pdb

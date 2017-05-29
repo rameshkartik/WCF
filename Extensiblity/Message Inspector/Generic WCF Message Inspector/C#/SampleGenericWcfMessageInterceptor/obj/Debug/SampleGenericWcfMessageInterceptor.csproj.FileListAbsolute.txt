@@ -1,0 +1,4 @@
+C:\Users\Kiruthika\Downloads\Generic WCF Message Inspector\C#\SampleGenericWcfMessageInterceptor\bin\Debug\SampleGenericWcfMessageInterceptor.dll
+C:\Users\Kiruthika\Downloads\Generic WCF Message Inspector\C#\SampleGenericWcfMessageInterceptor\bin\Debug\SampleGenericWcfMessageInterceptor.pdb
+C:\Users\Kiruthika\Downloads\Generic WCF Message Inspector\C#\SampleGenericWcfMessageInterceptor\obj\Debug\SampleGenericWcfMessageInterceptor.dll
+C:\Users\Kiruthika\Downloads\Generic WCF Message Inspector\C#\SampleGenericWcfMessageInterceptor\obj\Debug\SampleGenericWcfMessageInterceptor.pdb

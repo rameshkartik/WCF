@@ -1,0 +1,8 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\REST Service\Host\Host\bin\Debug\Host.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\REST Service\Host\Host\bin\Debug\Host.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\REST Service\Host\Host\bin\Debug\Host.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\REST Service\Host\Host\bin\Debug\ServiceLibrary.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\REST Service\Host\Host\bin\Debug\ServiceLibrary.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\REST Service\Host\Host\obj\Debug\Host.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\REST Service\Host\Host\obj\Debug\Host.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\2015\REST Service\Host\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache

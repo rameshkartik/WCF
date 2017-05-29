@@ -1,0 +1,9 @@
+http://www.c-sharpcorner.com/UploadFile/john_charles/CallbackoperationsinWindowsCommunicationFoundation06112007120551PM/CallbackoperationsinWindowsCommunicationFoundation.aspx
+
+
+http://www.codeproject.com/Articles/660479/Duplex-Service-in-WCF
+
+
+http://wcftutorial.net/callback-service.aspx
+
+https://msdn.microsoft.com/en-us/magazine/cc163537.aspx

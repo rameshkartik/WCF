@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://Rameshkartik/WCFSamples/OnlineShoppingService" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="http://Rameshkartik/WCFSamples/OnlineShoppingService" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://Rameshkartik/WCFSamples/OnlineShoppingService/Imports">
+      <xsd:import schemaLocation="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?xsd=xsd1" namespace="http://Rameshkartik/WCFSamples/OnlineShoppingService" />
+      <xsd:import schemaLocation="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?xsd=xsd0" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8733/Rameshkartik/WCFSamples/OnlineShoppingService?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/Rameshkartik.WCFSamples.OnlineShoppingService.Contracts" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="OrderRequest" />
+  <wsdl:message name="OrderRequest_Headers">
+    <wsdl:part name="OrderID" element="tns:OrderID" />
+  </wsdl:message>
+  <wsdl:message name="OrderResponse">
+    <wsdl:part name="OrderInfoObject" element="tns:OrderInfoObject" />
+  </wsdl:message>
+  <wsdl:message name="OnlineShoppingService_GetOrderDetails_StringFault_FaultMessage">
+    <wsdl:part xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/" name="detail" element="q1:string" />
+  </wsdl:message>
+  <wsdl:portType name="OnlineShoppingService">
+    <wsdl:operation name="GetOrderDetails">
+      <wsdl:input wsaw:Action="http://Rameshkartik/WCFSamples/OnlineShoppingService/OnlineShoppingService/GetOrderDetails" name="OrderRequest" message="tns:OrderRequest" />
+      <wsdl:output wsaw:Action="http://Rameshkartik/WCFSamples/OnlineShoppingService/OnlineShoppingService/GetOrderDetailsResponse" name="OrderResponse" message="tns:OrderResponse" />
+      <wsdl:fault wsaw:Action="http://Rameshkartik/WCFSamples/OnlineShoppingService/OnlineShoppingService/GetOrderDetailsStringFault" name="StringFault" message="tns:OnlineShoppingService_GetOrderDetails_StringFault_FaultMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+</wsdl:definitions>

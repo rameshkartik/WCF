@@ -1,0 +1,7 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryHost\bin\Debug\FoodInventoryHost.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryHost\bin\Debug\FoodInventoryHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryHost\bin\Debug\FoodInventoryHost.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryHost\bin\Debug\FoodInventoryLib_TCP.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryHost\bin\Debug\FoodInventoryLib_TCP.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryHost\obj\Debug\FoodInventoryHost.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\FoodInventoryHost\obj\Debug\FoodInventoryHost.pdb

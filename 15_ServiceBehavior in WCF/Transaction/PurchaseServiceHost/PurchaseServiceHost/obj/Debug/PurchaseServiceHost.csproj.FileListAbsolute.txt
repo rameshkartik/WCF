@@ -1,0 +1,13 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\PurchaseServiceHost\PurchaseServiceHost\bin\Debug\PurchaseServiceHost.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\PurchaseServiceHost\PurchaseServiceHost\bin\Debug\PurchaseServiceHost.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\PurchaseServiceHost\PurchaseServiceHost\bin\Debug\PurchaseServiceHost.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\PurchaseServiceHost\PurchaseServiceHost\bin\Debug\OnlinePurchase.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\PurchaseServiceHost\PurchaseServiceHost\bin\Debug\OnlinePurchase.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\PurchaseServiceHost\PurchaseServiceHost\obj\Debug\PurchaseServiceHost.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\PurchaseServiceHost\PurchaseServiceHost\obj\Debug\PurchaseServiceHost.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\PurchaseServiceHost\PurchaseServiceHost\obj\Debug\PurchaseServiceHost.csprojResolveAssemblyReference.cache
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\PurchaseServiceHost\PurchaseServiceHost\bin\Debug\TransactionService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\PurchaseServiceHost\PurchaseServiceHost\bin\Debug\TransactionService.pdb
+G:\RameshKartik\WCF Articles\Drive Point\15_ServiceBehavior in WCF\Transaction\PurchaseServiceHost\PurchaseServiceHost\bin\Debug\PurchaseServiceHost.exe.config
+G:\RameshKartik\WCF Articles\Drive Point\15_ServiceBehavior in WCF\Transaction\PurchaseServiceHost\PurchaseServiceHost\obj\Debug\PurchaseServiceHost.exe
+G:\RameshKartik\WCF Articles\Drive Point\15_ServiceBehavior in WCF\Transaction\PurchaseServiceHost\PurchaseServiceHost\obj\Debug\PurchaseServiceHost.pdb

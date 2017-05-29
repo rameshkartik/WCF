@@ -1,0 +1,14 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Client\Client\bin\Debug\Client.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Client\Client\bin\Debug\Client.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Client\Client\bin\Debug\Client.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Client\Client\obj\Debug\Client.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Client\Client\obj\Debug\Client.pdb
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Client\Client\bin\Debug\Client.exe.config
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Client\Client\obj\Debug\Client.exe
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Client\Client\obj\Debug\Client.pdb
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Client\Client\bin\Debug\Client.exe
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Client\Client\bin\Debug\Client.pdb
+G:\RameshKartik\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Old Code\Client\Client\bin\Debug\Client.exe.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Old Code\Client\Client\obj\Debug\Client.exe
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\Old Code\Client\Client\obj\Debug\Client.pdb

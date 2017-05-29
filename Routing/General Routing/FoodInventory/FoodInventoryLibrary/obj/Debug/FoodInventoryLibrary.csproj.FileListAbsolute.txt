@@ -1,0 +1,18 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventoryService\FoodInventoryService\bin\Debug\FoodInventoryService.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventoryService\FoodInventoryService\bin\Debug\FoodInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventoryService\FoodInventoryService\bin\Debug\FoodInventoryService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventoryService\FoodInventoryService\obj\Debug\FoodInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventoryService\FoodInventoryService\obj\Debug\FoodInventoryService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventory\FoodInventoryLibrary\bin\Debug\FoodInventoryService.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventory\FoodInventoryLibrary\bin\Debug\FoodInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventory\FoodInventoryLibrary\bin\Debug\FoodInventoryService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventory\FoodInventoryLibrary\obj\Debug\FoodInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\FoodInventory\FoodInventoryLibrary\obj\Debug\FoodInventoryService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryLibrary\bin\Debug\FoodInventoryService.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryLibrary\bin\Debug\FoodInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryLibrary\bin\Debug\FoodInventoryService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryLibrary\obj\Debug\FoodInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\SourceCode\SourceCode\FoodInventory\FoodInventoryLibrary\obj\Debug\FoodInventoryService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\SourceCode\SourceCode\FoodInventory\FoodInventoryLibrary\bin\Debug\FoodInventoryService.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\SourceCode\SourceCode\FoodInventory\FoodInventoryLibrary\bin\Debug\FoodInventoryService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\SourceCode\SourceCode\FoodInventory\FoodInventoryLibrary\bin\Debug\FoodInventoryService.pdb

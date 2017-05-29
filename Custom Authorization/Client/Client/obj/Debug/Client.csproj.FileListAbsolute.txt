@@ -1,0 +1,5 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\Client\Client\bin\Debug\Client.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\Client\Client\bin\Debug\Client.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\Client\Client\bin\Debug\Client.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\Client\Client\obj\Debug\Client.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\Client\Client\obj\Debug\Client.pdb

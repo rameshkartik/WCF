@@ -1,0 +1,25 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.dll.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageService\obj\Debug\SecuredMessageService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\Message Security\SecuredMessageService\SecuredMessageService\obj\Debug\SecuredMessageService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageService\obj\Debug\SecuredMessageService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Message Security\SecuredMessageService\SecuredMessageService\obj\Debug\SecuredMessageService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageService\obj\Debug\SecuredMessageService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Windows Authorization\SecuredMessageService\SecuredMessageService\obj\Debug\SecuredMessageService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\New folder\Windows Authorization\SecuredMessageService\SecuredMessageService\obj\Debug\SecuredMessageService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\New folder\Windows Authorization\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\New folder\Windows Authorization\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\New folder\Windows Authorization\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\New folder\Windows Authorization\SecuredMessageService\SecuredMessageService\obj\Debug\SecuredMessageService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\File IO changes only\Windows Authorization\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\File IO changes only\Windows Authorization\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\File IO changes only\Windows Authorization\SecuredMessageService\SecuredMessageService\bin\Debug\SecuredMessageService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\File IO changes only\Windows Authorization\SecuredMessageService\SecuredMessageService\obj\Debug\SecuredMessageService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Impersonation\File IO changes only\Windows Authorization\SecuredMessageService\SecuredMessageService\obj\Debug\SecuredMessageService.pdb

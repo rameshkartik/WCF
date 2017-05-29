@@ -1,0 +1,8 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationService\bin\Debug\CustomAuthorizationService.dll.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationService\bin\Debug\CustomAuthorizationService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationService\bin\Debug\CustomAuthorizationService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationService\obj\Debug\CustomAuthorizationService.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationService\obj\Debug\CustomAuthorizationService.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationService\bin\Debug\CustomUsernameValidator.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationService\bin\Debug\CustomUsernameValidator.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\Custom Authorization\CustomAuthorizationService\CustomAuthorizationService\obj\Debug\CustomAuthorizationService.csprojResolveAssemblyReference.cache

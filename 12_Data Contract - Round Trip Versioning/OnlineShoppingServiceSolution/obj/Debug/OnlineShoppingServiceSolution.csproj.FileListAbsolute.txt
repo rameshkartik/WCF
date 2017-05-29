@@ -1,0 +1,46 @@
+C:\Documents and Settings\hiremath.kotraiah\My Documents\Visual Studio 2008\Projects\MyWCFsolution\MyWCFsolution\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\hiremath.kotraiah\My Documents\Visual Studio 2008\Projects\MyWCFsolution\MyWCFsolution\bin\Debug\MyWCFsolution.dll.config
+C:\Documents and Settings\hiremath.kotraiah\My Documents\Visual Studio 2008\Projects\MyWCFsolution\MyWCFsolution\bin\Debug\MyWCFsolution.dll
+C:\Documents and Settings\hiremath.kotraiah\My Documents\Visual Studio 2008\Projects\MyWCFsolution\MyWCFsolution\bin\Debug\MyWCFsolution.pdb
+C:\Documents and Settings\hiremath.kotraiah\My Documents\Visual Studio 2008\Projects\MyWCFsolution\MyWCFsolution\obj\Debug\MyWCFsolution.dll
+C:\Documents and Settings\hiremath.kotraiah\My Documents\Visual Studio 2008\Projects\MyWCFsolution\MyWCFsolution\obj\Debug\MyWCFsolution.pdb
+G:\RameshKartik\WCF Articles\Source\Hiremath_Articles_634425070138280000_dot net\MyWCFsolution\MyWCFsolution\bin\Debug\MyWCFsolution.dll.config
+G:\RameshKartik\WCF Articles\Source\Hiremath_Articles_634425070138280000_dot net\MyWCFsolution\MyWCFsolution\bin\Debug\MyWCFsolution.dll
+G:\RameshKartik\WCF Articles\Source\Hiremath_Articles_634425070138280000_dot net\MyWCFsolution\MyWCFsolution\bin\Debug\MyWCFsolution.pdb
+G:\RameshKartik\WCF Articles\Source\Hiremath_Articles_634425070138280000_dot net\MyWCFsolution\MyWCFsolution\obj\Debug\MyWCFsolution.dll
+G:\RameshKartik\WCF Articles\Source\Hiremath_Articles_634425070138280000_dot net\MyWCFsolution\MyWCFsolution\obj\Debug\MyWCFsolution.pdb
+G:\RameshKartik\WCF Articles\Service Contract\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.dll.config
+G:\RameshKartik\WCF Articles\Service Contract\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.dll
+G:\RameshKartik\WCF Articles\Service Contract\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.pdb
+G:\RameshKartik\WCF Articles\Service Contract\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.dll
+G:\RameshKartik\WCF Articles\Service Contract\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.pdb
+G:\RameshKartik\WCF Articles\Service Contract\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingServiceSolution.csprojResolveAssemblyReference.cache
+G:\RameshKartik\WCF Articles\06_Data Contract\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.dll.config
+G:\RameshKartik\WCF Articles\06_Data Contract\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.dll
+G:\RameshKartik\WCF Articles\06_Data Contract\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.pdb
+G:\RameshKartik\WCF Articles\06_Data Contract\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.dll
+G:\RameshKartik\WCF Articles\06_Data Contract\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.pdb
+G:\RameshKartik\WCF Articles\06_Data Contract - KnownType\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.dll.config
+G:\RameshKartik\WCF Articles\06_Data Contract - KnownType\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.dll
+G:\RameshKartik\WCF Articles\06_Data Contract - KnownType\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.pdb
+G:\RameshKartik\WCF Articles\06_Data Contract - KnownType\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.dll
+G:\RameshKartik\WCF Articles\06_Data Contract - KnownType\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\06_Data Contract - KnownType\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.dll.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\06_Data Contract - KnownType\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\06_Data Contract - KnownType\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\06_Data Contract - KnownType\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\06_Data Contract - KnownType\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.pdb
+G:\RameshKartik\WCF Articles\SourceCode\07_Data Contract - Versioning\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingServiceSolution.csprojResolveAssemblyReference.cache
+G:\RameshKartik\WCF Articles\SourceCode\07_Data Contract - Versioning\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.dll
+G:\RameshKartik\WCF Articles\SourceCode\07_Data Contract - Versioning\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\07_Data Contract - Versioning\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.dll.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\07_Data Contract - Versioning\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\07_Data Contract - Versioning\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\07_Data Contract - Versioning\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\07_Data Contract - Versioning\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\08_Data Contract - Round Trip Versioning\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\08_Data Contract - Round Trip Versioning\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\08_Data Contract - Round Trip Versioning\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.dll.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\08_Data Contract - Round Trip Versioning\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\08_Data Contract - Round Trip Versioning\OnlineShoppingServiceSolution\bin\Debug\OnlineShoppingService.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\08_Data Contract - Round Trip Versioning\OnlineShoppingServiceSolution\obj\Debug\OnlineShoppingServiceSolution.csprojResolveAssemblyReference.cache

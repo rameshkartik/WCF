@@ -1,0 +1,6 @@
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\OnlinePurchase\bin\Debug\OnlinePurchase.dll.config
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\OnlinePurchase\bin\Debug\OnlinePurchase.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\OnlinePurchase\bin\Debug\OnlinePurchase.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\OnlinePurchase\obj\Debug\OnlinePurchase.dll
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\OnlinePurchase\obj\Debug\OnlinePurchase.pdb
+D:\Projects\Energetic Scrummies\Techies\WCF Articles\WCF Articles\15_Behaviors in WCF\ServiceBehavior\OnlinePurchase\obj\Debug\OnlinePurchaseService.csprojResolveAssemblyReference.cache

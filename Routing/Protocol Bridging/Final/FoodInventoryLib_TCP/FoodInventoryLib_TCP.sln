@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodInventoryHost", "..\FoodInventoryHost\FoodInventoryHost.csproj", "{70F8B532-00CC-4678-BDD3-A632E6A05363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodInventoryLib_TCP", "FoodInventoryLib_TCP\FoodInventoryLib_TCP.csproj", "{1FB4C4F3-C24B-4625-94D6-E7799F41243C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F8B532-00CC-4678-BDD3-A632E6A05363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F8B532-00CC-4678-BDD3-A632E6A05363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F8B532-00CC-4678-BDD3-A632E6A05363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F8B532-00CC-4678-BDD3-A632E6A05363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB4C4F3-C24B-4625-94D6-E7799F41243C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB4C4F3-C24B-4625-94D6-E7799F41243C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB4C4F3-C24B-4625-94D6-E7799F41243C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB4C4F3-C24B-4625-94D6-E7799F41243C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

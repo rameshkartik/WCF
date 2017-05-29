@@ -1,0 +1,43 @@
+Introduction
+------------
+
+SOA
+---
+-architectural approach in sw development
+- application is organized  as services
+- services group of methods, share one common requirements
+-methods called by client
+-published methods in  service are used by client as a black box
+-no direct interaction
+-work executes as instruct in the input params
+- it means service consumers are running in diff machines
+-allows business logic to be centralized and other consumers to be decentralized across the neetwork.
+SOA structrures messages are sent between machines containing data
+
+-main idea for SOA is to form a loosely coupled system.
+-client only knows the signatures describing name,names,types of input parameters, and return type of the function service
+- no dependency on technical infrastructure
+- interact easily from diffrnt platforms within service
+-SOA is a XML language that defines the content
+-input parameters ,output are formatedd by soap
+- all developments has soap stack,
+-not coupled
+
+
+Principles of SOA
+-----------------
+
+
+
+Technologies Behind SOA
+-----------------------
+
+
+How WCF Implement SAO Patterns
+-------------------------------
+*Decoupled Contract
+*Proxy pattern
+*Operation Context Pattern
+*Concurrent Patterns
+*Data Confidentiality
+*Exception Shiellding

@@ -1,0 +1,15 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\MainRouteServer\MainRouteServer\bin\Debug\MainRouteServer.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\MainRouteServer\MainRouteServer\bin\Debug\MainRouteServer.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\MainRouteServer\MainRouteServer\bin\Debug\MainRouteServer.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\MainRouteServer\MainRouteServer\obj\Debug\MainRouteServer.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\New folder\MainRouteServer\MainRouteServer\obj\Debug\MainRouteServer.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\MainRouteServer\MainRouteServer\bin\Debug\MainRouteServer.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\MainRouteServer\MainRouteServer\obj\Debug\MainRouteServer.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\MainRouteServer\MainRouteServer\obj\Debug\MainRouteServer.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\MainRouteServer\MainRouteServer\bin\Debug\MainRouteServer.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\MainRouteServer\MainRouteServer\bin\Debug\MainRouteServer.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Final\MainRouteServer\MainRouteServer\bin\Debug\MainRouteServer.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Final\MainRouteServer\MainRouteServer\obj\Debug\MainRouteServer.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Final\MainRouteServer\MainRouteServer\obj\Debug\MainRouteServer.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Final\MainRouteServer\MainRouteServer\bin\Debug\MainRouteServer.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Protocol Bridging\Final\MainRouteServer\MainRouteServer\bin\Debug\MainRouteServer.pdb

@@ -1,0 +1,8 @@
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 2\BackupService2Host\bin\Debug\BackupService2Lib.dll
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 2\BackupService2Host\bin\Debug\BackupService2Lib.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 2\BackupService2Host\bin\Debug\BackupService2Host.exe.config
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 2\BackupService2Host\bin\Debug\BackupService2Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 2\BackupService2Host\bin\Debug\BackupService2Host.pdb
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 2\BackupService2Host\obj\Debug\BackupService2Host.csprojResolveAssemblyReference.cache
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 2\BackupService2Host\obj\Debug\BackupService2Host.exe
+G:\RameshKartik\Tech\WCF 4.0\Articles\2015\WCF\Routing\Fail Over\Backup Service 2\BackupService2Host\obj\Debug\BackupService2Host.pdb
